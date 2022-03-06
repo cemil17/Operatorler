@@ -1,0 +1,14 @@
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.exe
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.deps.json
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.json
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.dev.json
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfo.cs
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\Cemil KAĞAN\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.genruntimeconfig.cache
